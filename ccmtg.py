@@ -332,6 +332,22 @@ elif selection == 'Climate Mitigation Solutions':
 elif selection == 'Analysis':
         st.header('Analysis on Climate Change Effects , Mitigation ')
         st.image('images/ccmit3.jpeg')
+        st.subheader('Intended Audience:')
+        st.write("The mitigation assistant application can be used by industry,policy makers, communities,and general public in adapting to the climate effects relevant to their sector and helps in climate mitigation solution planning implemetation" )
+        st.subheader("This application can be enhanced with ")
+        st.write("* QnA NLP system for user to query any topic/solution.")
+        st.write("* Adding more portals for climate study and solutions.")
+        st.write("* Support industries/communities in implementation of solutions.")
+        st.write("* Provide rating  for industries/policies on effeciency and impact of solutions.")
+        st.write("* Motivate general public in raising awareness on climate solutions.")
+        st.write("* Promote public, private partnerships  in implementation of climate solutions.")
+
+        st.subheader("Credits:")
+        st.write("* https://impactlab.org")
+        st.write("* https://drawdown.org")
+        st.write("* https://datahub.io/core/global-temp")
+        st.write("* https://www.epa.gov/climate-indicators/climate-change-indicators-sea-level")
+        st.write("* https://databank.worldbank.org/source/millennium-development-goals# ") 
 
 
 
